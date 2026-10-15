@@ -15,6 +15,13 @@
       "when": 1792097394951,
       "tag": "0001_cold_wasp",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792103388587,
+      "tag": "0002_nice_banshee",
+      "breakpoints": true
     }
   ]
 }
