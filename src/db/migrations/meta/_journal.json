@@ -8,6 +8,13 @@
       "when": 1792003481601,
       "tag": "0000_known_cannonball",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792097394951,
+      "tag": "0001_cold_wasp",
+      "breakpoints": true
     }
   ]
 }
