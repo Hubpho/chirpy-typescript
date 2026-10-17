@@ -22,6 +22,13 @@
       "when": 1792103388587,
       "tag": "0002_nice_banshee",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792203957663,
+      "tag": "0003_bumpy_drax",
+      "breakpoints": true
     }
   ]
 }
